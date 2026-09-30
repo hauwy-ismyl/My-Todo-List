@@ -1,0 +1,8 @@
+{
+  "name": "My Todo List",
+  "description": "A clean, modern Todo List & Notes app with subtasks, date filtering, and private offline storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
